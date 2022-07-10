@@ -86,7 +86,7 @@ images 3
 2. Run the following command in the app's directory to run your web app.
     `python run.py`
 
-3. Go to http://0.0.0.0:3001/
+3. Go to http://0.0.0.0:3000/
 
 ### Licensing, Authors, Acknowledgements, etc.
 Thanks to Udacity for the bolierplate code and Stephanie Irvine for her guidance on the model prep. 
