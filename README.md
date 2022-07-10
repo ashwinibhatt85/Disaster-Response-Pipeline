@@ -63,15 +63,13 @@ A Python script, `train_classifier.py`, creates a ML pipeline that:
 A jupyter notebook `ML Pipeline Preparation` was used in preparation of the train_classifier.py file
 
 #### C. Flask Web App
-A web app that a emergency worker can use to input new message and get the output in several categories. The app also contains visualizations for easier understanding of underlying distributions of datasets
+A web app that a emergency worker can use to input new message and get the output in several categories. The app also contains visualizations for easier understanding of underlying distributions of data
 
+![Screenshot_message_classify](https://user-images.githubusercontent.com/107289536/178130096-23401184-f70a-4281-bbb1-8c77f1e269bc.PNG)
 
-images 1
+![Screenshot_message_multi_classify](https://user-images.githubusercontent.com/107289536/178130094-6f172cbd-5143-44f9-9922-d67eecff312d.PNG)
 
-images 2
-
-images 3
-
+![Screenshot_message_deaths](https://user-images.githubusercontent.com/107289536/178130093-21b7095e-d948-4d22-b3e8-d9757eab87d5.PNG)
 
 
 
