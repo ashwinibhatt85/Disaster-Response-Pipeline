@@ -9,7 +9,7 @@ Repo for Disaster response pipeline project with ETL,NLP and ML pipelines
  * [Licensing, Authors, Acknowledgements, etc.](#licensing-authors-acknowledgements-etc)
  
  ### Project Motivation
-As a part of Datascience nanodegree learning requirement I have applied my DE skills that i have learnt thru the platform to a perform analysis on disaster data from appen.com and built a classifier model for classifying messages. This project utilizes an ETL pipeline, a ML pipeline and a Flask web app. The ML model categorizes real messages sent during a disaster event and it is sent to the corresponding disaster relief agency, the web app allows emergency workers to input messages and find out the category of the message. 
+As a part of Datascience nanodegree learning requirement I have applied my DE skills that i have learnt thru the platform to a perform analysis on disaster data from appen.com and built a classifier model for classifying messages. This project utilizes an ETL pipeline, a ML pipeline and a Flask web app. The ML model categorizes real messages sent during a disaster event and it is sent to the corresponding disaster relief agency, the web app allows emergency workers to input messages and find out the category of the message. This project is an attempt to solve a conceptual Classification problem under Supervised Machine Learning Model.
 
 
 ### File Descriptions
